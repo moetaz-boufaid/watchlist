@@ -51,3 +51,7 @@ main{
 .card:hover{
     background-color: #a6b0bf;
 }
+.card-link {
+        text-decoration: none;
+        color: inherit;
+}
